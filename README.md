@@ -4,4 +4,5 @@
 
 # Sources
 
-[Udemy Link](https://www.udemy.com/the-web-developer-bootcamp)
+[Udemy](https://www.udemy.com/the-web-developer-bootcamp)
+[Slides](https://webdev.slides.com/coltsteele)
