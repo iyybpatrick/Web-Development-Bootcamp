@@ -28,3 +28,7 @@ Course started on 11/28/2015
 * Authentication
 * PassportJS
 * Authorization
+
+# deployed 
+
+The app is deployed on Heroku([click here](https://fast-garden-65851.herokuapp.com))
