@@ -11,20 +11,20 @@ Course started on 11/28/2015
 [Slides](https://webdev.slides.com/coltsteele)
 
 # Technology included 
-*HTML5
-*CSS3
-*JavaScript
-*Bootstrap
-*SemanticUI
-*DOM Manipulation
-*jQuery
-*Unix(Command Line) Commands
-*NodeJS
-*NPM
-*ExpressJS
-*REST
-*MongoDB
-*Database Associations
-*Authentication
-*PassportJS
-*Authorization
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* SemanticUI
+* DOM Manipulation
+* jQuery
+* Unix(Command Line) Commands
+* NodeJS
+* NPM
+* ExpressJS
+* REST
+* MongoDB
+* Database Associations
+* Authentication
+* PassportJS
+* Authorization
