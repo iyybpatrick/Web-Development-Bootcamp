@@ -32,4 +32,5 @@ Course started on 11/28/2015
 # YelpCamp web Application
 
 This application publishes crowd-sourced reviews about Camping Sites.
+
 The app is deployed on Heroku([click here](https://fast-garden-65851.herokuapp.com))
